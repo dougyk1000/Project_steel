@@ -59,7 +59,7 @@
 
  
 <h2 align="center">  NOTICE </h2>
---
+---
 *PROJECT STEEL BOT is not made by `WhatsApp Inc.` Sometimes misusing the bot might `ban` your `WhatsApp account!`*
 - *In that case, I'm not responsible for banning your account.*
 - *Use PROJECT STEEL BOT at your own risk by keeping this warning in mind.*
