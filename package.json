@@ -1,15 +1,15 @@
 {
-   "name": "𝚸𝚪𝚯𝐉𝚵𝐂𝚻_𝐒𝚻𝚵𝚵𝐋",
+   "name": "Project Steel",
    "version": "2.0",
-   "description": "Multi device WhatsApp bot from Mr 𝐷𝛩𝑈𝐺𝑌_𝛫1000",
+   "description": "Multi device WhatsApp bot from Mr Dougy_k1000",
    "main": "index.js",
    "type": "commonjs",  
    "scripts": {
-            "run": "pm2 start . --deep-monitoring --attach --name 𝚸𝚪𝚯𝐉𝚵𝐂𝚻_𝐒𝚻𝚵𝚵𝐋 || node .",
-            "start": "pm2 start . --attach --name Suhail",
-            "stop": "pm2 stop Suhail"
+            "run": "pm2 start . --deep-monitoring --attach --name Project Steel || node .",
+            "start": "pm2 start . --attach --name Project Steel",
+            "stop": "pm2 stop Project Steel"
    },
-   "author": "𝐷𝛩𝑈𝐺𝑌_𝛫1000",
+   "author": "Dougy_k1000",
    "license" :"Apache-2.0",
    "dependencies": { 
              "@adiwajshing/keyed-db": "^0.2.4",
