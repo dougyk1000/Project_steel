@@ -11,12 +11,12 @@ global.email ="kulearnerebooks@gmail.com"
 global.location="Norton,Zimbabwe."
 
 
-global.mongodb= process.env.MONGODB_URI || ""
+global.mongodb= process.env.MONGODB_URI || "mongodb+srv://douglasnkowo0145:#Br@@115g00d0145@cluster0.owgtzo0.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 global.allowJids= process.env.ALLOW_JID || "null" 
 global.blockJids= process.env.BLOCK_JID || "null"
 global.DATABASE_URL = process.env.DATABASE_URL || ""
 
-global.timezone= process.env.TZ || process.env.TIME_ZONE || "Asia/Karachi";
+global.timezone= process.env.TZ || process.env.TIME_ZONE || "Africa/Harare";
 global.github=process.env.GITHUB|| "https://github.com/dougyk1000/Project_steel";
 global.gurl  =process.env.GURL  || "https://whatsapp.com/channel/0029Va9thusJP20yWxQ6N643";
 global.website=process.env.GURL || "https://whatsapp.com/channel/0029Va9thusJP20yWxQ6N643" ; 
