@@ -1,13 +1,13 @@
 {
-   "name": "Project Steel",
+   "name": "ProjectSteel",
    "version": "2.0",
    "description": "Multi device WhatsApp bot from Mr Dougy_k1000",
    "main": "index.js",
    "type": "commonjs",  
    "scripts": {
-            "run": "pm2 start . --deep-monitoring --attach --name Project Steel || node .",
-            "start": "pm2 start . --attach --name Project Steel",
-            "stop": "pm2 stop Project Steel"
+            "run": "pm2 start . --deep-monitoring --attach --name ProjectSteel || node .",
+            "start": "pm2 start . --attach --name ProjectSteel",
+            "stop": "pm2 stop ProjectSteel"
    },
    "author": "Dougy_k1000",
    "license" :"Apache-2.0",
